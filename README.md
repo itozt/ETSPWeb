@@ -22,4 +22,10 @@ Tabel lagu : <br>
 # dashboard.php untuk Admin
 ![image](https://github.com/user-attachments/assets/21d20a7a-cc92-4ab9-8679-c4ef5902b70a)
 
+# lagu_edit.php untuk Admin
+![image](https://github.com/user-attachments/assets/5ffc4801-c8b1-4eeb-afe3-5f7159117c71)
+
+#lagu_tambah.php untuk Admin
+![image](https://github.com/user-attachments/assets/ab416ac8-29ea-4320-8620-be6232fd58fd)
+
 
